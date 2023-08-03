@@ -1,6 +1,5 @@
 # Data Analytics SmartInternz Project - A Comprehensive Analysis Of The IT Sector Salaries And Roles
 
-![Project Logo](url_to_logo.png)
 
 Welcome to the Data Analytics SmartInternz project, "A Comprehensive Analysis Of The IT Sector Salaries And Roles." This project aims to provide a detailed and insightful examination of salary trends and job roles within the Information Technology (IT) sector. By leveraging Tableau for data analytics and visualization, we intend to gain valuable insights into the factors influencing salaries and the distribution of job roles in this rapidly evolving industry. Additionally, we have created a dedicated website to showcase the project's findings and interactive Tableau visualizations.
 
